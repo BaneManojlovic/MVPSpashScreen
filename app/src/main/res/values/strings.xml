@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVP SpashScreen</string>
+    <string name="mvp">MVP</string>
+    <string name="enter_email_username">Enter email or username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">LOGIN</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="home_fragment">HOME Fragment</string>
+    <string name="signup_fragment">SignUP Fragment</string>
+</resources>
