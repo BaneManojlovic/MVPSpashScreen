@@ -9,7 +9,7 @@ import android.widget.Toast;
 import com.bitnovisad.mvpspashscreen.R;
 import com.bitnovisad.mvpspashscreen.login.view.LoginFragment;
 
-public class MainActivity extends AppCompatActivity implements IntMainActivityView{
+public class MainActivity extends AppCompatActivity implements IntMainActivityView {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
